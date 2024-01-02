@@ -1,0 +1,48 @@
+
+.loginPage{
+   
+  position: relative; 
+ 
+ }
+ .body{
+     margin: 0;
+     overflow-x: hidden;
+ }
+ 
+ .login{
+   margin-left: 30px;
+   margin-top: 20px;
+   border-radius: 10px 10px 10px 10px;
+ position: fixed;
+   top: 10%;
+   left: 0;
+   width: 17%;
+   height: 43%; 
+   background-color: rgba(203, 194, 194, 0.5); 
+     z-index: 1; 
+ }
+ 
+.container {
+  position: relative;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  object-position: center;
+  z-index: -1;
+}
+
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 

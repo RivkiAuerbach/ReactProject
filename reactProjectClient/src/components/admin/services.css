@@ -1,0 +1,12 @@
+.caption {
+    animation-duration: 1.5s; 
+    animation-delay: 1.5s; 
+    color:blue;
+  }
+  .service-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 30px; 
+  }
+  
